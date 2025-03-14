@@ -602,3 +602,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [11:23:50 | 14-03-2025] ✅ Node started for 0x0345dA5305E141AEc956499ef3363a60dFC2a14D
+[15:25:32 | 14-03-2025] Wallet Address: 0x0345dA5305E141AEc956499ef3363a60dFC2a14D
+[15:25:32 | 14-03-2025] Node Points: 623484
+[15:25:32 | 14-03-2025] Last Claim Point: 13/03/2025 01:39:48
+[15:25:33 | 14-03-2025] ✅ Points claimed for 0x0345dA5305E141AEc956499ef3363a60dFC2a14D
+[15:25:33 | 14-03-2025] 🚨 Failed to start node for 0x0345dA5305E141AEc956499ef3363a60dFC2a14D: [object Object]
